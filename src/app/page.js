@@ -2,7 +2,7 @@ import React from 'react'
 
 const Home = () => {
   return (
-    <div className='bg-red-400'>page</div>
+    <div className='h-[100vh] flex items-center justify-center bg-blue-800'> Root page</div>
   )
 }
 
